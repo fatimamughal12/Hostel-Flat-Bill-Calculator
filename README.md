@@ -40,7 +40,7 @@ This project was developed using Python with a focus on a simple, user-friendly 
 ### Step 1: Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/fatimamughal12/Hostel-Flat-Bill-Calculator.git
 ```
 
 ### Step 2: Navigate to the Project Folder
